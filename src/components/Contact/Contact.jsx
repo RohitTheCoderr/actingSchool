@@ -41,7 +41,6 @@ function Contact() {
                             <form className="mt-1 sm:mt-2  md:mt-4 lg:mt-6 xl:mt-7 w-full p-4 rounded-lg">
                                 <input type="text" placeholder="Name" className=" h-[2rem] sm:h-[2.5rem] md:h-[2.7rem] lg:h-[3.2rem] xl:h-[3.5rem] w-full text-[14px] sm:text-[16px] md:text-[18px] lg:text-lg xl:text-lg rounded-sm sm:rounded-sm md:rounded-md lg:rounded-lg xl:rounded-lg pl-[4px] sm:pl-2 md:pl-3 lg:pl-4 xl:pl-4 mb-4 sm:mb-6 md:mb-8 lg:10 xl:mb-10" />
                                 <input type="text" placeholder="Email" className=" h-[2rem] sm:h-[2.5rem] md:h-[2.7rem] lg:h-[3.2rem] xl:h-[3.5rem]  w-full text-[14px] sm:text-[16px] md:text-[18px] lg:text-lg xl:text-lg rounded-sm sm:rounded-sm md:rounded-md lg:rounded-lg xl:rounded-lg pl-[4px] sm:pl-2 md:pl-3 lg:pl-4 xl:pl-4 mb-4 sm:mb-6 md:mb-8 lg:10 xl:mb-10" />
-                                {/* <input type="message" placeholder="Message" className="h-[20rem] w-full text-sm sm:text-[16px] md:text-[18px] lg:text-lg xl:text-lg rounded-sm sm:rounded-sm md:rounded-md lg:rounded-lg xl:rounded-lg pl-[4px] sm:pl-2 md:pl-3 lg:pl-4 xl:pl-4 mb-4 sm:mb-6 md:mb-8 lg:10 xl:mb-10" /> */}
                                 <textarea
                                     name="Your Message"
                                     id="footextArea"
